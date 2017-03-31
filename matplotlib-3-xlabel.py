@@ -4,4 +4,5 @@ pop=[2.5,3.6,5.2,6.9]
 plt.plot(year,pop)
 plt.xlabel('Year')
 plt.ylabel('Population')
+plt.title('World Population')
 plt.show()
